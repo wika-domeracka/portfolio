@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "WIKAWORLD"
-author: "Wika Domeracka"
 image: Wika_2.png
 ---
 
