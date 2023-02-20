@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fashion Dealers"
-image: Wika_3.png
+image: Wika_3.jpg
 ---
 
 
