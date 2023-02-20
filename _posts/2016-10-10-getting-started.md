@@ -1,8 +1,3 @@
----
-layout: post
-title: "WIKAWORLD"
-image: Wika_2.png
----
 
 # WIKAWORLD
 
