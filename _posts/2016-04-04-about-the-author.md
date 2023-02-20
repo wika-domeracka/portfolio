@@ -4,7 +4,7 @@ title: "About"
 author: "Wika Domeracka"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: wika_1.png
 ---
 
 Hi there! I'm Wika, nic nie rozumiem
