@@ -2,7 +2,7 @@
 layout: post
 title: "WIKAWORLD"
 author: "Wika Domeracka"
-image: city-1.jpg
+image: Wika_2.png
 ---
 
 # WIKAWORLD
