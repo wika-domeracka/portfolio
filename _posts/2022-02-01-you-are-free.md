@@ -4,7 +4,7 @@ title: "You are free"
 image: Wika_1.png
 ---
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/7394015?color=333333" allowfullscreen="" width="960" height="660"><a href="https://wika-domeracka.itch.io/you-are-free">Play You Are Free on itch.io</a></iframe>
+<iframe class="featured-image" frameborder="0" src="https://itch.io/embed-upload/7394015?color=333333" allowfullscreen="" width="960" height="660"><a href="https://wika-domeracka.itch.io/you-are-free">Play You Are Free on itch.io</a></iframe>
 
 ### Lagrange
 
