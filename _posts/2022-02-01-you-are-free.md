@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "You are free"
 image: Wika_1.png
 ---
 
