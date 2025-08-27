@@ -6,7 +6,7 @@ categories: video
 tags: [portfolio]
 image: /assets/img/Wika-10.jpg
 # remove the next line if you see it in old posts:
-# published: false
+
 ---
 
 <video width="640" height="360" controls>
