@@ -4,7 +4,7 @@ title: "Ephemeral Realities"
 date: 2025-08-27
 categories: video
 tags: [portfolio]
-image: /assets/img/Wika10.png
+image: /assets/img/Wika-10.jpg
 # remove the next line if you see it in old posts:
 # published: false
 ---
