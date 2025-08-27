@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "My New Piece"
+title: "Ephemeral Realities"
 date: 2025-08-27
 categories: video
 tags: [portfolio]
-image: /assets/img/my-new-piece.jpg
+image: /assets/img/Wika10.png
 # remove the next line if you see it in old posts:
 # published: false
 ---
